@@ -36,3 +36,6 @@
 *.obj
 *.o
 *.sbr
+
+# Exclude 
+!src/Library/CMSIS/Documentation/CMSIS_Core.htm
