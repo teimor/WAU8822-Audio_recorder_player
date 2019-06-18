@@ -1,0 +1,38 @@
+# Mac
+.DS_Store
+
+# uVision Project files
+*.opt
+*.uvopt
+*.uvoptx
+*.uvgui
+*.uvgui.*
+*.uvguix.*
+
+# Generated output files
+/Keil/lst/*
+/Keil/obj/*
+
+# Listing files
+*.cod
+*.htm
+*.i
+*.lst
+*.map
+*.m51
+*.m66
+*.scr
+*.scvd
+
+# Object and HEX files
+*.axf
+*.b[0-3][0-9]
+*.hex
+*.d
+*.crf
+*.elf
+*.hex
+*.h86
+*.obj
+*.o
+*.sbr
